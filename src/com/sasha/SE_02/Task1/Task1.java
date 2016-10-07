@@ -3,7 +3,7 @@ package com.sasha.SE_02.Task1;
 /**
  * Created by Александра on 05.10.2016.
  */
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
         Pen one = new Pen();
         Pen two = new Pen("ballpoin", "green", "INC");
