@@ -15,6 +15,7 @@ public class Notepad {
         records = new ArrayList<>();
     }
 
+
     public void addRecord(String text) {
         Record record = new Record(text, lastNumRecord++);
         records.add(record);
