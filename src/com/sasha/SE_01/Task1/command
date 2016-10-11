@@ -1,0 +1,5 @@
+C:\Java\IdeaProjects\epam_trainings\src>javac com\sasha\SE_01\Task1\Logic.java
+C:\Java\IdeaProjects\epam_trainings\src>javac com\sasha\SE_01\Task1\Main.java
+
+C:\Java\IdeaProjects\epam_trainings\src>java com.sasha.SE_01.Task1.Main
+I am string in Logic.
