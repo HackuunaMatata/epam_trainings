@@ -1,8 +1,13 @@
-package com.sasha.SE_02.Task6;
+package com.sasha.SE_02.Task6_7;
 
 /**
  * Created by Александра on 16.10.2016.
  */
+
+@Annotation.Information(
+        author = "HackuunaMatata",
+        data = "16.10.16"
+)
 public class NuclearSubmarine {
     private Engine engine = new Engine();
     String name;

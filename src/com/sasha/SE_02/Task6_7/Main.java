@@ -1,4 +1,4 @@
-package com.sasha.SE_02.Task6;
+package com.sasha.SE_02.Task6_7;
 
 /**
  * Created by Александра on 16.10.2016.
