@@ -1,0 +1,12 @@
+else = 1
+if = 2
+new = 1
+package = 1
+static = 2
+void = 2
+double = 3
+private = 1
+for = 3
+public = 2
+class = 1
+int = 5
