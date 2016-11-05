@@ -52,7 +52,7 @@ public class Task4 {
         System.out.println("=================================================================");
         newLibrary.filmsWithActor(benedict);
         System.out.println("=================================================================");
-        
+
         File file = new File("C:\\Java\\IdeaProjects\\epam_trainings\\src\\com\\sasha\\SE_04\\Task4\\serialized.txt");
         Library.serializeToFile(newLibrary, file);
         Library lib = Library.deserializeFromFile(file);
